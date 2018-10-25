@@ -1,0 +1,27 @@
+.jumbotron {
+	background-image: url("img/sitio/local.png");
+}
+.navbar {
+	background-color: #707070;
+}
+.img-row {
+	height: 300px;
+}
+.galeria__img {
+	height: 300px;
+	width: 300px;
+}
+.titulo {
+	text-align: center;
+}
+.iconos {
+	text-align: center;
+	font-size: 50px;
+}
+.footer {
+	background-color: #707070;
+}
+.Carta {
+	border-top-style: solid;
+	border-color: #000000;
+}
